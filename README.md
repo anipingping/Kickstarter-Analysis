@@ -20,10 +20,12 @@ Not all of the formulas in the module instructions worked for me. I encountered 
 
 Based on the dataset we have here, it seems pretty clear that there is a strong association between the success of a play/theater activity and a modest fundraising goal.
 
-*What are some limmitations of this dataset?*
+*What are some limitations of this dataset?*
 
 I think this dataset could be strengthened if we knew more about the company or organization running the operation. I don't think I saw that data in this file. I think this data needs more information about the facility where the activity occurred, cost of tickets, the number of people who attended the event. If available, this type of data, which is quantitative data and would lend itself to analysis in Excel, would really strengthen this dataset.
 
 *What are some other possible tables and/or graphs that we could create?*
 
-I kind of addressed this in the previous section, but more information about the parent company, the number of staff involved, the number of months that a marketing campaign ran, the social media platforms that were used for the marketing campaign, maybe the specific cities where the activity occurred. For example, there is information on countries, but maybe information about CITIES could provide even more detail. Is New York a better place to launch a theater production than Houston? Is Paris a better place to launch a theater production than New York? That would be interesting data to assess.
+I kind of addressed this in the previous section, but more information about the parent company, the number of staff involved, the number of months that a marketing campaign ran, the social media platforms that were used for the marketing campaign, maybe the specific cities where the activity occurred. I know there is a column called "blurb" but that data is formatted as long blocks of text that will require more manipulation to effectively categorize and tabulate for a pivot table. Perhaps a separate column called "company" would be better? 
+
+Additionally, there is information on countries, but I think that some information about CITIES could provide even more detail. Is New York a better place to launch a theater production than Houston? Is Paris a better place to launch a theater production than New York? That would be interesting data to assess.
